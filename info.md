@@ -48,7 +48,7 @@ Once you have finished installing through [HACS or manually](https://github.com/
 Setting | Description
 --- | ---
 Mail Folder| The folder in your email account that the notification messages are stored. The default is Inbox.
-<nobr>Scanning Interval (minutes)</nobr>| The amount of time that will pass between checking for new email nortifications
+<nobr>Scanning Interval (minutes)</nobr>| The amount of time that will pass between checking for new email notifications
 Image Path* | This is the absolute path to the folder where [Mail and Packages integration](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) will save the compiled USPS informed delivery gif.
 <nobr>Image Duration (seconds)</nobr> | The amount of time each USPS Informed Delivery image is shown in the generated rotating GIF.
 <nobr>Random Image Filename*</nobr> | Change the file name of the generated gif from mail_today.gif to a random string for increased secuirty in situations where it is required to store the  image in the ```www``` directory
